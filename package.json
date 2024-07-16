@@ -22,7 +22,7 @@
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.1"
   },
-  "homepage": "https://drewdemo.github.io/tcl-promo-new",
+  "homepage": "https://drewdemo.github.io/,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

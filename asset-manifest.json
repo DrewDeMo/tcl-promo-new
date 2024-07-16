@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tcl-promo-new/static/css/main.2ab83cf1.css",
+    "main.js": "/tcl-promo-new/static/js/main.ce509497.js",
+    "static/js/453.c9d09f4d.chunk.js": "/tcl-promo-new/static/js/453.c9d09f4d.chunk.js",
+    "index.html": "/tcl-promo-new/index.html",
+    "main.2ab83cf1.css.map": "/tcl-promo-new/static/css/main.2ab83cf1.css.map",
+    "main.ce509497.js.map": "/tcl-promo-new/static/js/main.ce509497.js.map",
+    "453.c9d09f4d.chunk.js.map": "/tcl-promo-new/static/js/453.c9d09f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab83cf1.css",
+    "static/js/main.ce509497.js"
+  ]
+}
